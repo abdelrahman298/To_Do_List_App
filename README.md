@@ -4,7 +4,10 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a to_do_list app i have created by using Flutter platform
+had used many Important Widget in the app such as (FloatingActionButton-TextFormField-BottomNavigationBar),
+had used many necessary flutter packages such as (flutter_bloc  -  Bloc  -  sqflite  -  intl - flutter_conditional_rendering ),
+and used the Bloc Pattern in State Management.
 
 A few resources to get you started if this is your first Flutter project:
 
