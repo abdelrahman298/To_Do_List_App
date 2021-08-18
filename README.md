@@ -14,7 +14,7 @@ and this is the App tutorial
 
 
 
-![20210818_030431](https://user-images.githubusercontent.com/54869237/129820390-845e4a93-80bb-4e5a-b942-feac4a37983f.gif)
+![20210818_031151](https://user-images.githubusercontent.com/54869237/129820851-d1c08238-d06e-4e1b-986c-44577a61a898.gif)
 
 
 
